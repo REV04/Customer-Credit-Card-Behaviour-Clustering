@@ -8,7 +8,7 @@ This project, "Customer Credit Card Behavior Clustering," is part of my Hacktiv8
 The purpose of this project is to cluster customer credit card data retrieved from BigQuery using SQL queries. I will conduct Exploratory Data Analysis (EDA) to explore the data for clustering purposes. This analysis will be used to label and cluster data based on credit card consumer behavior and activity. These labels will aid in identifying patterns, which will then be utilized for making future predictions.
 
 ### Methods Used
-- SQL
+- DQL
 - PCA
 - K-means
 - Data Visualization
