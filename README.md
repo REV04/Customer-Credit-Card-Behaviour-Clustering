@@ -1,4 +1,4 @@
-# Customer-Credit-Card-Behaviour-Clustering
+# Customer Credit Card Behaviour Clustering
 This project, "Customer Credit Card Behavior Clustering," is part of my Hacktiv8 coursework on unsupervised learning. It serves as both a requirement for my Hacktiv8 studies and a component of my personal portfolio in Data Science. I created this project with a fictional background, made solely for the purpose of the project. You can find my other personal projects on [Richard Edgina Virgo](https://github.com/REV04).
 
 #### -- Project Status: Finished
